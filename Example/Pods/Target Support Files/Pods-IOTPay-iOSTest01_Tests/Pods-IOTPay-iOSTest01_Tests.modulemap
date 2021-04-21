@@ -1,0 +1,6 @@
+framework module Pods_IOTPay_iOSTest01_Tests {
+  umbrella header "Pods-IOTPay-iOSTest01_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module IOTPay_iOSTest01 {
+  umbrella header "IOTPay-iOSTest01-umbrella.h"
+
+  export *
+  module * { export * }
+}
